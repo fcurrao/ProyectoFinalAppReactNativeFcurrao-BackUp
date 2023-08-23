@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8bf88abb.js",
+    "static/js/817.56d0688d.js": "/static/js/817.56d0688d.js",
+    "static/media/Fontisto.ttf": "/static/media/Fontisto.c0edd68811e0237502fe.ttf",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
+    "static/media/Foundation.ttf": "/static/media/Foundation.c0cbb004854f9c746f89.ttf",
+    "static/media/Feather.ttf": "/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/SimpleLineIcons.ttf": "/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/favicon.ico",
+    "static/media/defaultProfile.png": "/static/media/defaultProfile.6b0abf5f3cee863e6f59.png",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "serve.json": "/serve.json",
+    "manifest.json": "/manifest.json",
+    "main.8bf88abb.js.map": "/static/js/main.8bf88abb.js.map",
+    "817.56d0688d.js.map": "/static/js/817.56d0688d.js.map"
+  },
+  "entrypoints": [
+    "static/js/817.56d0688d.js",
+    "static/js/main.8bf88abb.js"
+  ]
+}
